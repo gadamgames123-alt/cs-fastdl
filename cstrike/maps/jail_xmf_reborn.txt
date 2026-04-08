@@ -1,0 +1,6 @@
+XMF Reborn - Jail
+by Daniil Lebedev (artstation.com/seedee)
+
+Built for westcstrike.ro
+
+Mashup of jail_xmf, deathrun_arctic, fy_cf, surf_iceday, jb_csowicze_xmas_ezk. Credit to The Mad Carrot for keypad prefab
